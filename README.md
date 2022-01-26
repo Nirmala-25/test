@@ -1,2 +1,3 @@
 # test
 ty
+ty project
